@@ -1,0 +1,9 @@
+[submodule "github-readme-stats"]
+	path = github-readme-stats
+	url = https://github.com/anuraghazra/github-readme-stats.git
+[submodule "shields"]
+	path = shields
+	url = https://github.com/badges/shields.git
+[submodule "github-profile-views-counter"]
+	path = github-profile-views-counter
+	url = https://github.com/antonkomarev/github-profile-views-counter.git
