@@ -58,7 +58,7 @@
   <img src="https://img.shields.io/badge/vs-purple?style=for-the-badge&logo=visualstudio&logoColor=white" />
   <img src="https://img.shields.io/badge/photoshop-2F9FF2?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
   <img src="https://img.shields.io/badge/aftereffects-000056?style=for-the-badge&logo=adobeaftereffects&logoColor=white" />
-  <img src="https://img.shields.io/badge/aftereffects-000056?style=for-the-badge&logo=adobepremierepro&logoColor=white" />
+  <img src="https://img.shields.io/badge/premierepro-000056?style=for-the-badge&logo=adobepremierepro&logoColor=white" />
   <img src="https://img.shields.io/badge/blender-DC770C?style=for-the-badge&logo=blender&logoColor=white" />
   
   <img src="https://img.shields.io/badge/postgresql-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
