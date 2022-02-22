@@ -13,10 +13,13 @@
   <a href= "mailto:alex.biscoveanu@yahoo.ca">
     <img src="https://img.shields.io/badge/emailme-EA4335?style=for-the-badge&logo=yahoo&logoColor=black" />
   </a>
-<!--   <img src="https://img.shields.io/badge/devto-black?style=for-the-badge&logoColor=black" />
+<!-- will link these later   
+  <img src="https://img.shields.io/badge/portfolio-white?style=for-the-badge&&logoColor=black" />
+  <img src="https://img.shields.io/badge/devto-black?style=for-the-badge&logoColor=black" />
   <img src="https://img.shields.io/badge/instagram-red?style=for-the-badge&logo=instagram&logoColor=black" />
   <img src="https://img.shields.io/badge/twitter-skyblue?style=for-the-badge&logo=twitter&logoColor=black" />
-  <img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=black" /> -->
+  <img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=black" /> 
+--> 
   <h4>:alien: Graphics Programmer | :telescope: Software Developer | :space_invader: Game Developer</h4>
 </div>
 
