@@ -41,6 +41,7 @@
   <img src="https://img.shields.io/badge/vulkan-9C1C20?style=for-the-badge&logo=vulkan&logoColor=white" />
   <img src="https://img.shields.io/badge/threejs-grey?style=for-the-badge&logo=webgl&logoColor=white" />
   <img src="https://img.shields.io/badge/markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
+  <img src="https://img.shields.io/badge/java-D96900?style=for-the-badge&logo=java&logoColor=black" />
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/ejs-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -59,6 +60,7 @@
   <img src="https://img.shields.io/badge/gitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/vs-purple?style=for-the-badge&logo=visualstudio&logoColor=white" />
+  <img src="https://img.shields.io/badge/intellij-D33C7B?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/photoshop-2F9FF2?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
   <img src="https://img.shields.io/badge/aftereffects-000056?style=for-the-badge&logo=adobeaftereffects&logoColor=white" />
   <img src="https://img.shields.io/badge/premierepro-000056?style=for-the-badge&logo=adobepremierepro&logoColor=white" />
