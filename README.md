@@ -2,8 +2,11 @@
 
 <div align="center">
   <h1>
-    print("About Me");
+    About Me
   </h1>
+  <p>
+    will add one soon along with socials
+  </p>
 </div>
 
 <div align="center">
