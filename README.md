@@ -4,9 +4,6 @@
   <h1>
     About Me
   </h1>
-  <p>
-    will add one soon along with socials
-  </p>
 </div>
 
 <div align="center">
@@ -26,13 +23,14 @@
   <h4>:alien: Graphics Programmer | :telescope: Software Developer | :space_invader: Game Developer</h4>
 </div>
 
+- 🚀 I have been programming since 2015!
 - 🔭 I’m currently working on a grahics engine
 - 🌱 I’m currently learning graphics programming and game dev
 - 📚 I am currently majoring in Software Systems at Simon Fraser University
 - 👯 I’m looking to collaborate on creating cool software and games for people to use and have fun with!
 - 🤔 I’m looking for help with Technical Interviews
-- 📫 How to reach me: By email or my socials (will update that soon)
-- ⚡ Fun fact: I am a really adaptive person, I can pick up skills quite quickly
+- 📫 How to reach me: By email or my socials
+- ⚡ Fun fact: I am a really adaptive person, I can pick up skills and technology quite quickly
 - 🏴‍☠️ Things I like: Gaming/Dev, Cars, Space, Science, Movies, Campfires, Food, Programming, Sports
 
 ### :scroll: Languages/APIs/Libraries
@@ -42,6 +40,7 @@
   <img src="https://img.shields.io/badge/c-27338B?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/opengl-517F9C?style=for-the-badge&logo=opengl&logoColor=white" />
   <img src="https://img.shields.io/badge/glm-F77C00?style=for-the-badge&logo=opengl&logoColor=white" />
+  <img src="https://img.shields.io/badge/glsl-black?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/vulkan-9C1C20?style=for-the-badge&logo=vulkan&logoColor=white" />
   <img src="https://img.shields.io/badge/threejs-grey?style=for-the-badge&logo=webgl&logoColor=white" />
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" />
