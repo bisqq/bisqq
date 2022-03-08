@@ -39,6 +39,7 @@
   <img src="https://img.shields.io/badge/c-27338B?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/opengl-517F9C?style=for-the-badge&logo=opengl&logoColor=white" />
   <img src="https://img.shields.io/badge/glm-F77C00?style=for-the-badge&logo=opengl&logoColor=white" />
+  <img src="https://img.shields.io/badge/glfw-orange?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/glsl-black?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/vulkan-9C1C20?style=for-the-badge&logo=vulkan&logoColor=white" />
   <img src="https://img.shields.io/badge/threejs-grey?style=for-the-badge&logo=webgl&logoColor=white" />
@@ -50,6 +51,8 @@
   <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/terminalcommands-black?style=for-the-badge&logo=windowsterminal&logoColor=white" />
+  <img src="https://img.shields.io/badge/postgresql-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
 </div>
 
 ### :hammer_and_pick: Tools/Softwares
@@ -59,7 +62,6 @@
   <img src="https://img.shields.io/badge/linux-E79D05?style=for-the-badge&logo=linux&logoColor=white" />
   <img src="https://img.shields.io/badge/macos-221C1E?style=for-the-badge&logo=macOS&logoColor=white" />
   <img src="https://img.shields.io/badge/unrealengine-black?style=for-the-badge&logo=UnrealEngine&logoColor=white" />
-  <img src="https://img.shields.io/badge/glfw-orange?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/gitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/vs-purple?style=for-the-badge&logo=visualstudio&logoColor=white" />
@@ -68,9 +70,6 @@
   <img src="https://img.shields.io/badge/aftereffects-000056?style=for-the-badge&logo=adobeaftereffects&logoColor=white" />
   <img src="https://img.shields.io/badge/premierepro-000056?style=for-the-badge&logo=adobepremierepro&logoColor=white" />
   <img src="https://img.shields.io/badge/blender-DC770C?style=for-the-badge&logo=blender&logoColor=white" />
-  
-  <img src="https://img.shields.io/badge/postgresql-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
 </div>
 
