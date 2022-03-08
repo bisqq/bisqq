@@ -43,6 +43,7 @@
   <img src="https://img.shields.io/badge/opengl-517F9C?style=for-the-badge&logo=opengl&logoColor=white" />
   <img src="https://img.shields.io/badge/vulkan-9C1C20?style=for-the-badge&logo=vulkan&logoColor=white" />
   <img src="https://img.shields.io/badge/threejs-grey?style=for-the-badge&logo=webgl&logoColor=white" />
+  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
   <img src="https://img.shields.io/badge/java-D96900?style=for-the-badge&logo=java&logoColor=black" />
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -59,7 +60,6 @@
   <img src="https://img.shields.io/badge/linux-E79D05?style=for-the-badge&logo=linux&logoColor=white" />
   <img src="https://img.shields.io/badge/macos-221C1E?style=for-the-badge&logo=macOS&logoColor=white" />
   <img src="https://img.shields.io/badge/unrealengine-black?style=for-the-badge&logo=UnrealEngine&logoColor=white" />
-  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/gitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/vs-purple?style=for-the-badge&logo=visualstudio&logoColor=white" />
