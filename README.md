@@ -1,25 +1,24 @@
 ![](https://user-images.githubusercontent.com/29154540/155096958-bc245cac-7c77-40a6-8c86-ab447a2d7119.png)
 
 <div align="center">
-  <h1>
-    About Me
-  </h1>
-</div>
-
-<div align="center">
   <img src="https://komarev.com/ghpvc/?username=bisqq&color=orange&style=flat-square&label=PROFILE+VIEWS" />
 </div>
 <div align="center">
-  <a href= "mailto:alex.biscoveanu@yahoo.ca">
-    <img src="https://img.shields.io/badge/emailme-EA4335?style=for-the-badge&logo=yahoo&logoColor=black" />
+  <a>
+    <a href= "https://bisqq.github.io/Portfolio/">
+    <img src="https://img.shields.io/badge/portfolio-white?style=for-the-badge&&logoColor=black" />
   </a>
-<!-- will link these later   
-  <img src="https://img.shields.io/badge/portfolio-white?style=for-the-badge&&logoColor=black" />
-  <img src="https://img.shields.io/badge/devto-black?style=for-the-badge&logoColor=black" />
-  <img src="https://img.shields.io/badge/instagram-red?style=for-the-badge&logo=instagram&logoColor=black" />
-  <img src="https://img.shields.io/badge/twitter-skyblue?style=for-the-badge&logo=twitter&logoColor=black" />
-  <img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=black" /> 
---> 
+  <a href= "mailto:alex.biscoveanu@yahoo.ca">
+    <img src="https://img.shields.io/badge/emailme-6001D2?style=for-the-badge&logo=yahoo&logoColor=black" />
+  </a>
+  <a>
+    <a href= "https://www.linkedin.com/in/alex-biscoveanu-1048221aa/">
+    <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=black" />
+  </a>
+  <a>
+    <a href= "https://dev.to/thebisqq">
+    <img src="https://img.shields.io/badge/dev.to-white?style=for-the-badge&logo=dev.to&logoColor=black" />
+  </a>
   <h4>:alien: Graphics Programmer | :telescope: Software Developer | :space_invader: Game Developer</h4>
 </div>
 
