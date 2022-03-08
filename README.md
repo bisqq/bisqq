@@ -35,7 +35,7 @@
 - ⚡ Fun fact: I am a really adaptive person, I can pick up skills quite quickly
 - 🏴‍☠️ Things I like: Gaming/Dev, Cars, Space, Science, Movies, Campfires, Food, Programming, Sports
 
-### :scroll: Languages/Other
+### :scroll: Languages/APIs
 <div align="center">
   <h3></h3>
   <img src="https://img.shields.io/badge/c++-005494?style=for-the-badge&logoColor=white" />
