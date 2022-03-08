@@ -23,7 +23,7 @@
   <h4>:alien: Graphics Programmer | :telescope: Software Developer | :space_invader: Game Developer</h4>
 </div>
 
-- 🚀 I have been programming since 2015!
+- 🚀 I have been programming since 2016!
 - 🔭 I’m currently working on a grahics engine
 - 🌱 I’m currently learning graphics programming and game dev
 - 📚 I am currently majoring in Software Systems at Simon Fraser University
