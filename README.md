@@ -24,10 +24,6 @@
     <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" />
   </a>
   <a>
-  <a href= "">
-    <img src= "https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" />
-  </a>
-  <a>
   <a href= "https://discordapp.com/users/thebisqq#8188/">
     <img src= "https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
