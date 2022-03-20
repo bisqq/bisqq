@@ -33,7 +33,7 @@
 
 - 🚀 I have been programming since 2016!
 - 🔭 I’m currently working on a grahics engine
-- 🌱 I’m currently learning graphics programming and game dev
+- 🌱 I’m currently learning better and modern coding practices
 - 📚 I am currently majoring in Software Systems at Simon Fraser University
 - 👯 I’m looking to collaborate on creating cool software and games for people to use and have fun with!
 - 🤔 I’m looking for help with Technical Interviews
