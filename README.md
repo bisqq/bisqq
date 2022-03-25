@@ -8,6 +8,9 @@
     <a href= "https://bisqq.github.io/Portfolio/">
     <img src="https://img.shields.io/badge/portfolio-white?style=for-the-badge&&logoColor=black" />
   </a>
+  <a href= "https://www.artstation.com/thebisqq">
+    <img src= "https://img.shields.io/badge/artstation-0094DE?style=for-the-badge&logo=artstation&logoColor=white" />
+  </a>
   <a href= "mailto:alex.biscoveanu@yahoo.ca">
     <img src="https://img.shields.io/badge/emailme-6001D2?style=for-the-badge&logo=yahoo&logoColor=white" />
   </a>
@@ -30,13 +33,14 @@
                                                                                                                     
   <h4>:alien: Graphics Programmer | :telescope: Software Developer | :space_invader: Game Developer</h4>
 </div>
-   
+                                                                                                            
 ___                                                                                                         
 <div align="center">
   All of my repositories are in the works of an update and clean up
 </div>
                    
 ___
+
                    
 - 🚀 I have been programming since 2016!
 - 🔭 I’m currently working on a grahics engine
