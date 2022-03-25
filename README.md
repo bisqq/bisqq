@@ -30,7 +30,14 @@
                                                                                                                     
   <h4>:alien: Graphics Programmer | :telescope: Software Developer | :space_invader: Game Developer</h4>
 </div>
-
+   
+___                                                                                                         
+<div align="center">
+  All of my repositories are in the works of an update and clean up
+</div>
+                   
+___
+                   
 - 🚀 I have been programming since 2016!
 - 🔭 I’m currently working on a grahics engine
 - 🌱 I’m currently learning better and modern coding practices
