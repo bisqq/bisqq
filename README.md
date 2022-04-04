@@ -6,7 +6,7 @@
 <div align="center">
   <a>
     <a href= "https://bisqq.github.io/Portfolio-Website/">
-    <img src="https://img.shields.io/badge/portfolio-white?style=for-the-badge&&logoColor=black" />
+    <img src="https://img.shields.io/badge/portfolio%20website-white?style=for-the-badge&&logoColor=black" />
   </a>
   <a href= "https://www.artstation.com/thebisqq">
     <img src= "https://img.shields.io/badge/artstation-0094DE?style=for-the-badge&logo=artstation&logoColor=white" />
