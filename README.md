@@ -50,7 +50,7 @@ ___
 - 🤔 I’m looking for help with Technical Interviews
 - 📫 How to reach me: By email or my socials
 - ⚡ Fun fact: I am a really adaptive person, I can pick up new skills and technologies quickly
-- 🏴‍☠️ Things I like: Gaming/Dev, Cars, Space, Science, Movies, Campfires, Food, Programming, Sports
+- 🏴‍☠️ Things I like: Gaming/Dev, Cars, Space, Science, Movies, Campfires, Food, Programming, 3D Modeling, Audio Programming
 
 ### :scroll: Languages/APIs/Libraries
 <div align="center">
