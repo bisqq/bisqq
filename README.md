@@ -5,30 +5,22 @@
 </div>
 <div align="center">
   <a>
-    <a href= "https://bisqq.github.io/Portfolio-Website/">
-    <img src="https://img.shields.io/badge/portfolio%20website-white?style=for-the-badge&&logoColor=black" />
+<!--     <a href= "https://bisqq.github.io/Portfolio-Website/">
+    <img src="https://img.shields.io/badge/portfolio%20website-white?style=for-the-badge&&logoColor=black" /> -->
   </a>
   <a href= "https://www.artstation.com/thebisqq">
     <img src= "https://img.shields.io/badge/artstation-0094DE?style=for-the-badge&logo=artstation&logoColor=white" />
   </a>
   <a href= "mailto:alex.biscoveanu@yahoo.ca">
-    <img src="https://img.shields.io/badge/emailme-6001D2?style=for-the-badge&logo=yahoo&logoColor=white" />
+    <img src="https://img.shields.io/badge/email%20me-6001D2?style=for-the-badge&logo=yahoo&logoColor=white" />
   </a>
   <a>
     <a href= "https://www.linkedin.com/in/alex-biscoveanu-1048221aa/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a>
-    <a href= "https://dev.to/thebisqq">
-    <img src="https://img.shields.io/badge/dev.to-white?style=for-the-badge&logo=dev.to&logoColor=black" />
-  </a>
-  <a>
-    <a href= "https://morekeys.itch.io">
-    <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" />
-  </a>
-  <a>
   <a href= "https://discordapp.com/users/thebisqq#8188/">
-    <img src= "https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+    <img src= "https://img.shields.io/badge/my%20discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
                                                                                                                     
   <h4>:alien: Graphics Programmer | :telescope: Software Developer | :space_invader: Game Developer</h4>
@@ -47,7 +39,7 @@ ___
 - 🌱 I’m currently learning better and modern coding practices
 - 📚 I am currently majoring in Software Systems at Simon Fraser University
 - 👯 I’m looking to collaborate on creating cool software and games for people to use and have fun with!
-- 🤔 I’m looking for help with Technical Interviews
+- 🤔 I’m looking for help with technical interviews
 - 📫 How to reach me: By email or my socials
 - ⚡ Fun fact: I am a really adaptive person, I can pick up new skills and technologies quickly
 - 🏴‍☠️ Things I like: Gaming/Dev, Cars, Space, Science, Movies, Campfires, Food, Programming, 3D Modeling, Audio Programming
@@ -70,7 +62,7 @@ ___
   <img src="https://img.shields.io/badge/ejs-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/terminalcommands-black?style=for-the-badge&logo=windowsterminal&logoColor=white" />
+  <img src="https://img.shields.io/badge/terminal%20commands-black?style=for-the-badge&logo=windowsterminal&logoColor=white" />
   <img src="https://img.shields.io/badge/postgresql-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/webpack-1B74BA?style=for-the-badge&logo=webpack&logoColor=white" />
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
@@ -82,14 +74,14 @@ ___
   <img src="https://img.shields.io/badge/windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/linux-E79D05?style=for-the-badge&logo=linux&logoColor=white" />
   <img src="https://img.shields.io/badge/macos-white?style=for-the-badge&logo=macOS&logoColor=black" />
-  <img src="https://img.shields.io/badge/unrealengine-black?style=for-the-badge&logo=UnrealEngine&logoColor=white" />
+  <img src="https://img.shields.io/badge/unreal%20engine-black?style=for-the-badge&logo=UnrealEngine&logoColor=white" />
   <img src="https://img.shields.io/badge/gitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/vs%20code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/vs-purple?style=for-the-badge&logo=visualstudio&logoColor=white" />
   <img src="https://img.shields.io/badge/intellij-D33C7B?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/photoshop-2F9FF2?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
-  <img src="https://img.shields.io/badge/aftereffects-000056?style=for-the-badge&logo=adobeaftereffects&logoColor=white" />
-  <img src="https://img.shields.io/badge/premierepro-000056?style=for-the-badge&logo=adobepremierepro&logoColor=white" />
+  <img src="https://img.shields.io/badge/after%20effects-000056?style=for-the-badge&logo=adobeaftereffects&logoColor=white" />
+  <img src="https://img.shields.io/badge/premiere%20pro-000056?style=for-the-badge&logo=adobepremierepro&logoColor=white" />
   <img src="https://img.shields.io/badge/blender-DC770C?style=for-the-badge&logo=blender&logoColor=white" />
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
 </div>
