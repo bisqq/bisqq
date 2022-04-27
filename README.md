@@ -54,7 +54,7 @@ ___
   <img src="https://img.shields.io/badge/glfw-orange?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/glsl-black?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/vulkan-9C1C20?style=for-the-badge&logo=vulkan&logoColor=white" />
-  <img src="https://img.shields.io/badge/threejs-F7DF1E?style=for-the-badge&logo=webgl&logoColor=black" />
+  <img src="https://img.shields.io/badge/threejs-F7DF1E?style=for-the-badge&logo=three.js&logoColor=black" />
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
   <img src="https://img.shields.io/badge/java-D96900?style=for-the-badge&logo=java&logoColor=black" />
@@ -72,18 +72,19 @@ ___
 
 <div align="center">
   <img src="https://img.shields.io/badge/windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/linux-E79D05?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/macos-white?style=for-the-badge&logo=macOS&logoColor=black" />
   <img src="https://img.shields.io/badge/unreal%20engine-black?style=for-the-badge&logo=UnrealEngine&logoColor=white" />
   <img src="https://img.shields.io/badge/gitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/vs%20code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/vs-purple?style=for-the-badge&logo=visualstudio&logoColor=white" />
-  <img src="https://img.shields.io/badge/intellij-D33C7B?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/intellij-D33C7B?style=for-the-badge&logo=intellij-idea&logoColor=white" />
   <img src="https://img.shields.io/badge/photoshop-2F9FF2?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
   <img src="https://img.shields.io/badge/after%20effects-000056?style=for-the-badge&logo=adobeaftereffects&logoColor=white" />
   <img src="https://img.shields.io/badge/premiere%20pro-000056?style=for-the-badge&logo=adobepremierepro&logoColor=white" />
   <img src="https://img.shields.io/badge/blender-DC770C?style=for-the-badge&logo=blender&logoColor=white" />
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
+  <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" />
 </div>
 
 ### :test_tube: GitHub Stats
