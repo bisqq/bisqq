@@ -23,7 +23,7 @@
     <img src= "https://img.shields.io/badge/my%20discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
                                                                                                                     
-  <h4>:alien: Graphics Programmer | :telescope: Software Developer | :space_invader: Game Developer</h4>
+  <h4>:alien: Graphics | :telescope: Software | :space_invader: Game | :milky_way: 3D Modelling/Rendering | :headphones: Audio</h4>
 </div>
                                                                                                             
 ___                                                                                                         
