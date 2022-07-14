@@ -8,7 +8,7 @@
 <!--     <a href= "https://bisqq.github.io/Portfolio-Website/">
     <img src="https://img.shields.io/badge/portfolio%20website-white?style=for-the-badge&&logoColor=black" /> -->
   </a>
-  <a href= "https://www.artstation.com/thebisqq">
+  <a href= "https://www.artstation.com/programzz">
     <img src= "https://img.shields.io/badge/artstation-0094DE?style=for-the-badge&logo=artstation&logoColor=white" />
   </a>
   <a href= "mailto:alex.biscoveanu@yahoo.ca">
