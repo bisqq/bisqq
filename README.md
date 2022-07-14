@@ -19,9 +19,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a>
-  <a href= "https://discordapp.com/users/thebisqq#8188/">
-    <img src= "https://img.shields.io/badge/my%20discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
                                                                                                                     
   <h4>:alien: Graphics | :telescope: Software | :space_invader: Game | :milky_way: 3D Modelling/Rendering | :headphones: Audio</h4>
 </div>
