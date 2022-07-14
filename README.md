@@ -36,7 +36,6 @@ ___
 - 🌱 I’m currently learning better and modern coding practices
 - 📚 I am currently majoring in Software Systems at Simon Fraser University
 - 👯 I’m looking to collaborate on creating cool software and games for people to use and have fun with!
-- 🤔 I’m looking for help with technical interviews
 - 📫 How to reach me: By email or my socials
 - ⚡ Fun fact: I am a really adaptive person, I can pick up new skills and technologies quickly
 - 🏴‍☠️ Things I like: Gaming/Dev, Cars, Space, Science, Movies, Campfires, Food, Programming, 3D Modeling, Audio Programming
