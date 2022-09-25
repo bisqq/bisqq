@@ -34,7 +34,7 @@ ___
 - 🚀 I have been programming since 2016!
 - 🔭 I’m currently working on a grahics engine
 - 🌱 I’m currently learning better and modern coding practices
-- 📚 I am currently majoring in Software Systems at Simon Fraser University
+- 📚 I'm currently majoring in Software Systems at Simon Fraser University
 - 👯 I’m looking to collaborate on creating cool software and games for people to use and have fun with!
 - 📫 How to reach me: By email or my socials
 - ⚡ Fun fact: I am a really adaptive person, I can pick up new skills and technologies quickly
