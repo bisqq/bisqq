@@ -59,7 +59,6 @@ ___
   <img src="https://img.shields.io/badge/terminal%20commands-black?style=for-the-badge&logo=windowsterminal&logoColor=white" />
   <img src="https://img.shields.io/badge/webpack-1B74BA?style=for-the-badge&logo=webpack&logoColor=white" />
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
-    <img src="https://img.shields.io/badge/cuda-74b71b?style=for-the-badge&logo=nvidia&logoColor=white" />
 </div>
 
 ### :hammer_and_pick: Tools/Softwares
