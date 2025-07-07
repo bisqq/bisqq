@@ -11,8 +11,8 @@
   <a href= "https://www.artstation.com/programzz">
     <img src= "https://img.shields.io/badge/artstation-0094DE?style=for-the-badge&logo=artstation&logoColor=white" />
   </a>
-  <a href= "mailto:alex.biscoveanu@yahoo.ca">
-    <img src="https://img.shields.io/badge/email%20me-6001D2?style=for-the-badge&logo=yahoo&logoColor=white" />
+  <a href="mailto:alex.biscoveanu.gfx@gmail.com">
+    <img src="https://img.shields.io/badge/email%20me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a>
     <a href= "https://www.linkedin.com/in/alex-biscoveanu-1048221aa/">
@@ -20,87 +20,59 @@
   </a>
   <a>
                                                                                                                     
-  <h4>:alien: Graphics | :telescope: Software | :space_invader: Game | :milky_way: 3D Modelling/Rendering | :headphones: Audio</h4>
+  <h4>👨‍💻 Software Engineer | 🖥️ Graphics | ⚙️ Systems | 🧩 Compilers | 🛠️ Tools Development | 🚀 Focused on Vulkan, LLVM, Unreal Engine, R&D | 🎮 Game Dev | 🪐 3D Modeling & Rendering | 🎧 Audio Programming | 🔬 Systems & Performance
+</h4>
 </div>
                                                                                                             
 ___                                                                                                         
 <div align="center">
-  All of my repositories are in the works of an update and clean up
+  Currently updating and cleaning up all my repositories — stay tuned for fresh content!
 </div>
                    
 ___
 
                    
-- 🚀 I have been programming since 2016!
-- 🔭 I’m currently working on a grahics engine
-- 🌱 I’m currently learning better and modern coding practices
-- 📚 I'm currently majoring in Software Systems at Simon Fraser University
-- 👯 I’m looking to collaborate on creating cool software and games for people to use and have fun with!
-- 📫 How to reach me: By email or my socials
-- ⚡ Fun fact: I am a really adaptive person, I can pick up new skills and technologies quickly
-- 🏴‍☠️ Things I like: Gaming/Dev, Cars, Space, Science, Movies, Campfires, Food, Programming, 3D Modeling, Audio Programming
+- 🚀 Programming since 2016, with a focus on low-level technologies like graphics, compilers, and systems programming.
+- 🔭 Currently working on a custom compiler project and R&D tools for graphics and systems.
+- 🌱 Always learning advanced coding practices, performance optimization, and emerging technologies.
+- 🎓 Final-year Software Systems student at Simon Fraser University (degree completion: 2025).
+- 👯 Open to collaborating on graphics engines, compilers, tools development, and innovative software projects.
+- 📫 Reach me via email or through my LinkedIn.
+- ⚡ Fun fact: I pick up new technologies quickly and love solving deep technical challenges.
+- 🎮 Interests: Game & Engine Development, Systems Programming, 3D Graphics, Audio Programming, Automotive Tech, Space, Film, Campfires, and great food.
 
-### :scroll: Languages/APIs/Libraries
+### :scroll: Languages / APIs / Libraries
+
 <div align="center">
-  <h3></h3>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/c-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/vulkan-9C1C20?style=for-the-badge&logo=vulkan&logoColor=white" />
-  <img src="https://img.shields.io/badge/glm-F77C00?style=for-the-badge&logo=opengl&logoColor=white" />
-  <img src="https://img.shields.io/badge/glfw-orange?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/glsl-black?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/threejs-F7DF1E?style=for-the-badge&logo=three.js&logoColor=black" />
-  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
-  <img src="https://img.shields.io/badge/java-D96900?style=for-the-badge&logo=java&logoColor=black" />
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/terminal%20commands-black?style=for-the-badge&logo=windowsterminal&logoColor=white" />
-  <img src="https://img.shields.io/badge/webpack-1B74BA?style=for-the-badge&logo=webpack&logoColor=white" />
-  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+  <img src="https://img.shields.io/badge/GLSL-000000?style=for-the-badge&logo=opengl&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vulkan-9C1C20?style=for-the-badge&logo=vulkan&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white" />
+  <img src="https://img.shields.io/badge/SDL2-94C11F?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLVM-262D3A?style=for-the-badge&logo=llvm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
 </div>
 
-### :hammer_and_pick: Tools/Softwares
+
+### :hammer_and_pick: Tools / Platforms / Software
 
 <div align="center">
-  <img src="https://img.shields.io/badge/windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/macos-white?style=for-the-badge&logo=macOS&logoColor=black" />
-  <img src="https://img.shields.io/badge/unreal%20engine-black?style=for-the-badge&logo=UnrealEngine&logoColor=white" />
-  <img src="https://img.shields.io/badge/gitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
-  <img src="https://img.shields.io/badge/intellij-D33C7B?style=for-the-badge&logo=intellij-idea&logoColor=white" />
-  <img src="https://img.shields.io/badge/photoshop-2F9FF2?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
-  <img src="https://img.shields.io/badge/after%20effects-000056?style=for-the-badge&logo=adobeaftereffects&logoColor=white" />
-  <img src="https://img.shields.io/badge/premiere%20pro-000056?style=for-the-badge&logo=adobepremierepro&logoColor=white" />
-  <img src="https://img.shields.io/badge/blender-DC770C?style=for-the-badge&logo=blender&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Perforce-404040?style=for-the-badge&logo=perforce&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe%20Creative%20Suite-FF0000?style=for-the-badge&logo=adobe&logoColor=white" />
+  <img src="https://img.shields.io/badge/FL%20Studio-F28D1A?style=for-the-badge&logo=flstudio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unreal%20Engine-000000?style=for-the-badge&logo=unrealengine&logoColor=white" />
 </div>
 
-### :test_tube: GitHub Stats
-<div align="center">
-
-  <table class = "table">
-  <thead>
-      <tr>
-          <th>Personal</th>
-          <th>School</th>
-      </tr>
-  </thead>
-    <tbody>
-      <tr>
-          <td>
-              <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bisqq&layout=compact&theme=tokyonight" />
-          </td>
-          <td>
-              <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bisqqSchool&layout=compact&theme=tokyonight" />
-          </td>
-      </tr>
-    </tbody>
-  </table>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bisqq&show_icons=true&theme=tokyonight&count_private=true" />
-</div>
