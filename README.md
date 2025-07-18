@@ -4,22 +4,42 @@
   <img src="https://komarev.com/ghpvc/?username=bisqq&color=orange&style=flat-square&label=PROFILE+VIEWS" />
 </div>
 <div align="center">
-  <a>
-<!--     <a href= "https://bisqq.github.io/Portfolio-Website/">
-    <img src="https://img.shields.io/badge/portfolio%20website-white?style=for-the-badge&&logoColor=black" /> -->
-  </a>
-  <a href= "https://www.artstation.com/programzz">
-    <img src= "https://img.shields.io/badge/artstation-0094DE?style=for-the-badge&logo=artstation&logoColor=white" />
-  </a>
-  <a href="mailto:alex.biscoveanu.gfx@gmail.com">
-    <img src="https://img.shields.io/badge/email%20me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a>
-    <a href= "https://www.linkedin.com/in/alex-biscoveanu-1048221aa/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a>
-                                                                                                                    
+
+<!-- YouTube -->
+<a href="https://www.youtube.com/@bisqottii" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+
+<!-- Dev.to -->
+<a href="https://dev.to/bisqottii" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
+</a>
+
+<!-- IMDb -->
+<a href="https://www.imdb.com/name/nm15194360/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/IMDb-f5c518?style=for-the-badge&logo=imdb&logoColor=black" />
+</a>
+
+<!-- Twitter (X) -->
+<a href="https://x.com/bisqottii" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+
+<!-- LinkedIn -->
+<a href="https://www.linkedin.com/in/alex-biscoveanu-1048221aa/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<!-- Instagram -->
+<a href="https://www.instagram.com/bisqottii.code/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<!-- Personal Website -->
+<a href="" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/portfolio%20website-white?style=for-the-badge&&logoColor=black" />
+</a>
+                                                                                                                  
   <h4>👨‍💻 Software Engineer | 🖥️ Graphics | ⚙️ Systems | 🧩 Compilers | 🛠️ Tools Development | 🚀 Focused on Vulkan, LLVM, Unreal Engine, R&D | 🎮 Game Dev | 🪐 3D Modeling & Rendering | 🎧 Audio Programming | 🔬 Systems & Performance
 </h4>
 </div>
@@ -35,9 +55,8 @@ ___
 - 🚀 Programming since 2016, with a focus on low-level technologies like graphics, compilers, and systems programming.
 - 🔭 Currently working on a custom compiler project and R&D tools for graphics and systems.
 - 🌱 Always learning advanced coding practices, performance optimization, and emerging technologies.
-- 🎓 Final-year Software Systems student at Simon Fraser University (degree completion: 2025).
 - 👯 Open to collaborating on graphics engines, compilers, tools development, and innovative software projects.
-- 📫 Reach me via email or through my LinkedIn.
+- 📫 Reach me via... currently updating
 - ⚡ Fun fact: I pick up new technologies quickly and love solving deep technical challenges.
 - 🎮 Interests: Game & Engine Development, Systems Programming, 3D Graphics, Audio Programming, Automotive Tech, Space, Film, Campfires, and great food.
 
